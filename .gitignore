@@ -1,6 +1,8 @@
 node_modules/
 .astro/
 dist/
+data/
+data/*
 data/*.db
 data/*.db-shm
 data/*.db-wal
